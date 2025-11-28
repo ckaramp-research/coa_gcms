@@ -1,0 +1,9 @@
+*
+!.gitignore
+!notebooks/
+!notebooks/*.ipynb
+!*.md
+!data/
+!data/*.csv
+!data/models_members.json
+!data/*.txt
