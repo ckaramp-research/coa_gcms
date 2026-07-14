@@ -20,4 +20,4 @@ For questions or further information, please contact:
 
 Christina Karamperidou - ckaramp@hawaii.edu
 
-Research Group: https://www2.hawaii.edu/~ckaramp
+Research Group: https://ckaramp-research.github.io/
